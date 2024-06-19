@@ -1,0 +1,1 @@
+A presentation on the K-Means clustering algorithm, with a handful of demos included in a Jupyter notebook. To view the presentation, open presentation/kmeans_presentation.pdf. To view the original tex, open presentation/kmeans_presentation.tex.
